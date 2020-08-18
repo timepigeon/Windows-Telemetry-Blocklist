@@ -139,3 +139,8 @@ s0.2mdn.net
 view.atdmt.com
 www.bing.com
 c-ring.msedge.net
+a-ring.msedge.net
+spo-ring.msedge.net
+fp.msedge.net
+fp-vp.azureedge.net
+ris.api.iris.microsoft.com
