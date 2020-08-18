@@ -137,3 +137,4 @@ insiderppe.cloudapp.net
 livetileedge.dsx.mp.microsoft.com
 s0.2mdn.net
 view.atdmt.com
+www.bing.com
